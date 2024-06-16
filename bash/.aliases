@@ -33,3 +33,7 @@ alias nv8="nvm use 8"
 alias nv12="nvm use 12"
 alias nv14="nvm use 14"
 alias nv16="nvm use 16"
+
+# qrencode script shortcuts
+alias qr="qrencode"
+alias qrcode="qrencode -t utf8 -m 2 -o -"

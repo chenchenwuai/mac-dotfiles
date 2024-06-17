@@ -1,4 +1,0 @@
-#!/bin/bash
-
-alias py=/opt/homebrew/bin/python3
-alias python=/opt/homebrew/bin/python3

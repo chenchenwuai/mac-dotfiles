@@ -24,9 +24,8 @@ alias gitgmail="git config user.email zccjxx62@gmail.com; git config user.name c
 alias bi="brew install"
 
 # npm script shortcuts
-alias i="ni"
-alias nd="nr dev"
-alias nb="nr build"
+alias nrd="npm run dev"
+alias nrb="npm run build"
 
 # nvm script shortcuts
 alias nv8="nvm use 8"
